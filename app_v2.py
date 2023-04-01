@@ -1,3 +1,5 @@
+history 50 > terminal_history.txt
+
 # -*- coding: utf-8 -*-
 """Loan Qualifier Application.
 
