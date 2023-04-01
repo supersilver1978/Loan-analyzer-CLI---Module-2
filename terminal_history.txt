@@ -1,0 +1,371 @@
+    1  git config --global user.name "Michelle Silver
+    2  git config --global user.name "Michelle Silver"
+    3  git config --global user.name
+    4  $ git config user.name "Michelle Silver"
+    5  git config --global user.name "Michelle Silver
+    6  git config --global user.name "Michelle Silver"
+    7  git config --global user.name
+    8  git config user.name "Michelle Silver"
+    9  git config user.name "Michelle Silver"
+   10  git config --global user.name
+   11  ssh -T git@github.com
+   12  eval "$(ssh-agent -s)"
+   13  ssh-add ~/.ssh/id_rsa
+   14  ssh-add ~/.ssh/ed/rsa
+   15  ssh-add ~/.ssh/id/rsa
+   16  ssh- add ~/.ssh/id_rsa
+   17  ssh-add ~/.ssh/id_rsa
+   18  ssh-add ~/.ssh/id_rsa
+   19  clip < ~/.ssh/id_rsa.pub
+   20  $ eval "$(ssh-agent -s)"
+   21  eval "$(ssh-agent -s)"
+   22  ssh-add ~/.ssh/ed_rsa
+   23  ssh-add ~/.ssh/id_rsa
+   24  ssh-keygen -t rsa -b 4096 -C "supersilver1978@gmail.com"
+   25  1s -al ~/.ssh
+   26  id_rsa
+   27  git config --global user.email "supersilver1978@gmail.com"
+   28  git config --global user.email
+   29  pwd
+   30  git config user.name
+   31  ls
+   32  cat .bashrc
+   33  sudo
+   34  ssh -T git@github.com
+   35  conda --version
+   36  conda update anaconda
+   37  conda
+   38  find conda.exe anaconda3/
+   39  find -r conda.exe anaconda3/
+   40  find -help
+   41  anaconda3/
+   42  conda
+   43  conda activate dev
+   44  conda --version
+   45  SSh -T git@github.com
+   46  ssh -T git@github.com
+   47  ls
+   48  ls -la
+   49  emacs
+   50  pip install emacs
+   51  c
+   52  clear
+   53  pwd
+   54  ls
+   55  ls .*
+   56  emacs -nw .ssh/known_hosts 
+   57  ls -al .ssh
+   58  sudo apt-get update
+   59  echo
+   60  echo 'export PATH=$PATH:/mnt/c/windows/System32' >> ~/.bashrc
+   61  source ~/.bashrc
+   62  sudo apt-get update
+   63  find / sudo
+   64  whereis sudo
+   65  cd /mnt/c/
+   66  ls
+   67  ls /
+   68  pwd
+   69  echo 'export PATH=$PATH:/c/windows/System32' >> ~/.bashrc
+   70  source ~/.bashrc
+   71  pwd
+   72  sudo
+   73  1s -al ~/.ssh
+   74  id-rsa
+   75  -t rsa -b 4096 -c
+   76  ssh-keygen
+   77  ssh-keygen -t rsa -b 4096 "supersilver1978@gmail.com"
+   78  eval "$(ssh-agent -s)"
+   79  ssh-add ~/.ssh/id_rsa
+   80  ssh-add ~/.ssh/id_rsa
+   81  clip < ~/.ssh/id_rsa.pub
+   82  ssh -T git@github.com
+   83  condan--version
+   84  conda update conda
+   85  conda update anaconda
+   86  conda create -n dev python=3.7 anaconda
+   87  conda activate dev
+   88  conda --version
+   89  conda update conda
+   90  conda update anaconda
+   91  conda create -n dev python=3.7 anaconda
+   92  is -al ~/.ssh
+   93  ssh-keygen -t rsa -b 4096 -c "supersilver1978@hotmail.com"
+   94  ssh-keygen -t rsa -b 4096 -c "supersilver1978@gmail.com"
+   95  id_rsa
+   96  ssh-keygen -t rsa -b 4096 "supersilver1978@hotmail.com)
+   97  ssh-keygen -t rsa -b 4096 "supersilver1978@hotmail.com"
+   98  ssh_keygen -t rsa -b 4096 -C "supersilver1978@hotmail.com"
+   99  is -al ~/.ssh
+  100  id_rsa
+  101  ssh-keygen -t rsa -b 4096 -C "supersilver1978@hotmail.com"
+  102  eval "$(ssh-agent -s)"
+  103  ssh-add ~/.ssh/id_rsa
+  104  clip < ~/.ssh/id_rsa.pub
+  105  ssh -T git@github.com
+  106  conda --version
+  107  onda update conda
+  108  conda update conda
+  109  conda update anaconda
+  110  conda create -n dev python=3.7 anaconda
+  111  pwd
+  112  cd ..
+  113  explorer .
+  114  cd desktop
+  115  cd ~
+  116  cd
+  117  /c/users/super
+  118  ls
+  119  pwd
+  120  cd desktop
+  121  mkdir test
+  122  touch sample.txt
+  123  cd test
+  124  cd ..
+  125  mv sample.txt test
+  126  cd test
+  127  ls
+  128  git mv sample.txt example.txt
+  129  mv sample.txt example.txt
+  130  ls
+  131  pwd
+  132  ls
+  133  cd silveroak
+  134  cd
+  135  cd desktop
+  136  ls
+  137  mk dir FinTech_Workspace
+  138  ls
+  139  cd Fintech-Workspace
+  140  mkdir FinTech-Workspace
+  141  cd FinTech-workspace
+  142  ls
+  143  cd ..
+  144  cd ~
+  145  cd FinTech-workspace
+  146  i
+  147  cd ssh
+  148  cd.ssh
+  149  id_rsa
+  150  cat id_rsa.pub
+  151  ssh-keygen -t rsa -b 4096 -C "supersilver1978@gmail.com"
+  152  cd .ssh
+  153  ls
+  154  cat id_rsa.pub 
+  155  cat id_rsa
+  156  cp y.pub .ssh
+  157  ls
+  158  cp ../y.pub .
+  159  cat y.pub 
+  160  cat id_rsa.pub 
+  161  cp y.pub id_rsa.pub 
+  162  diff y.pub id_rsa.pub 
+  163  cd desktop
+  164  cd FinTech_Workspace
+  165  cd FinTech-Workspace
+  166  ls
+  167  ls
+  168  ls
+  169  cd python_project
+  170  ls
+  171  conda activate dev
+  172  conda info --envs
+  173  python --version
+  174  code .
+  175  conda
+  176  conda activate dev
+  177  . /c/Anaconda3/etc/profile.d/conda.sh
+  178  conda --version
+  179  conda update conda
+  180  conda update anaconda
+  181  cd ~
+  182  conda create -n dev python=3.7 anaconda
+  183  conda activate dev
+  184  python --version
+  185  code .
+  186  cd desktop
+  187  cd python_project/
+  188  ls
+  189  cd python_project
+  190  cd FinTech-Workspace
+  191  ls
+  192  cd Python_project
+  193  conda activate dev
+  194  python --version
+  195  code .
+  196  code .
+  197  code .
+  198  conda activate dev
+  199  python hello_python.py
+  200  emacs -nw hello_python.py 
+  201  cat hello_python.py 
+  202  vi
+  203  pip --install emacs
+  204  pip -install emacs
+  205  pip install emacs
+  206  emacs -nw hello_python.py 
+  207  which emacs
+  208  ls
+  209  cd ~
+  210  ls
+  211  find . -name emacs
+  212  % &
+  213  jobs
+  214  ~/Desktop/FinTech-Workspace/Python_Project/
+  215  cd ~/Desktop/FinTech-Workspace/Python_Project/
+  216  ls
+  217  cat hello_python.py 
+  218  code hello_python.py 
+  219  python hello_python.py
+  220  code .
+  221  code hello_python.py 
+  222  which code
+  223  pushd /c/Users/super/anaconda3/envs/dev/
+  224  find . code &
+  225  jobs
+  226  kill %
+  227  find -help
+  228  find . code > ~/DEST.txt &
+  229  popd
+  230  code.cmd hello_python.py 
+  231  which code.cmd
+  232  code.cmd hello_python.py 
+  233  less ~/DEST.txt 
+  234  which code
+  235  which code.cmd
+  236  alias code.cmd
+  237  code .cmd
+  238  code.cmd
+  239  conda deactivate
+  240  activate conda dev
+  241  conda activate dev
+  242  Microsoft_stockprice = 270
+  243  Print (Microsoft_stockprice)
+  244  code.cmd
+  245  Microsoft_stockprice = 270
+  246  activate conda dev
+  247  code.cmd
+  248  code.cmd
+  249  conda activate dev
+  250  pip -V
+  251  pip freeze
+  252  pip install fire
+  253  pip install questionary
+  254  ls
+  255  ls
+  256  cl
+  257  cmd
+  258  conda init
+  259  conda init
+  260  cd
+  261  cd desktop
+  262  cd github
+  263  cd desktop
+  264  ls
+  265  cd github_upload
+  266  git int
+  267  git init
+  268  git clone ~desktop/github_upload
+  269  git init
+  270  git clone git@github.com:supersilver1978/loan_analyzer.git
+  271  eval "$(ssh-agent -s)"
+  272  ssh-add ~/.ssh/id_ed25519
+  273  git clone https://github.com/supersilver1978/loan_analyzer.git
+  274  cd loan_analyzer/
+  275  ls
+  276  cd
+  277  pwd
+  278  cd loan_analyzer
+  279  cd desktop/github_upload/loan_analyzer
+  280  code .
+  281  git status
+  282  git clone [1;6DD
+  283  cd
+  284  ls
+  285  cd desktop
+  286  cd loan_analyzer
+  287  cd github_upload
+  288  ls
+  289  cd loan_analyzer
+  290  ls
+  291  git status
+  292  git add
+  293  git add loan_analyzer.py
+  294  git status
+  295  git commit -m "Commit loan_analyzer"
+  296  git commit -m "Commit loan analyzer" loan_analyzer
+  297  git commit -m "Commit retrieve" loan_analyzer.py
+  298  git push
+  299  conda
+  300  conda activate dev
+  301  code
+  302  jupyter lab
+  303  code .
+  304  conda env list
+  305  conda activate atm
+  306  pip install -r requirements.txt
+  307  conda create -n atmdevpython=3.7 anaconda
+  308  conda activate anaconda
+  309  code .
+  310  ls
+  311  cmd
+  312  conda activate dev
+  313  pip -v
+  314  pip install <fire 0.3.1>
+  315  pip freeze
+  316  pip install fire
+  317  pip install questionary
+  318  conda activate dev
+  319  pwd
+  320  touch
+  321  touch --help
+  322  pip install fire
+  323  import fire
+  324  python cli.py
+  325  ls
+  326  cd desktop
+  327  cd fintech
+  328  cd desktop
+  329  ls
+  330  cd fintech_workspace
+  331  cd fintech-workspace
+  332  ls
+  333  cd week 2
+  334  cd 'week 2'
+  335  python cli.py
+  336  import fire
+  337  pip install fire
+  338  python cli.py
+  339  python cli.py
+  340  python cli.py
+  341  python workout.py
+  342  python cli.py
+  343  conda activate dev
+  344  cd
+  345  ls
+  346  desktop
+  347  cd desktop
+  348  ls
+  349  cd github_upload
+  350  ls
+  351  starter_Code - Mod2
+  352  cd starter_code - Mod2
+  353  cd 'Starter_Code - Mod2'
+  354  conda activate dev
+  355  conda env
+  356  conda activate dev
+  357  cd
+  358  ls
+  359  cmd
+  360  ls
+  361  cd desktop
+  362  ls
+  363  cd github_upload
+  364  ls
+  365  cd 'starter_code - Mod2'
+  366  ls
+  367  cd loan_qualifier_app
+  368  activate conda dev
+  369  conda activate dev
+  370  Function Key 7
+  371  history > terminal_history.txt
