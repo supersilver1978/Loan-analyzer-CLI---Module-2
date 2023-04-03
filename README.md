@@ -19,11 +19,16 @@ The goal of this portion of the project is to permit the user to have the abilit
 
 ## Technologies
 
-This project leverages python 3.7 with the following packages:
+This project leverages python 3.9.13 with the following packages:
 
-* [fire](https://github.com/google/python-fire) - For the command line interface, help page, and entry-point.
+* [fire](https://github.com/google/python-fire) - Fr the command line interface, help page, and entry-point.
 
 * [questionary](https://github.com/tmbo/questionary) - For interactive user prompts and dialogs
+
+* Sysexit 
+
+* Pathlib 
+
 
 ---
 
@@ -35,7 +40,6 @@ Before running the application first install the following dependencies.
   pip install fire
   pip install questionary
 ```
-
 ---
 
 ## Usage
@@ -46,9 +50,7 @@ To use the Loan Qualifier CLI simply clone the repository and run the **app_v2.p
 
 Upon launching the Loan Analyzier CLI the user will follow these prompts:
 
-![Loan Analyzer CLI](![https://onedrive.live.com/?cid=14C4696BEBFF683D&id=14C4696BEBFF683D%21261207&parId=14C4696BEBFF683D%21252061&o=OneUp])
-
----
+![Loan Analyzer CLI][[![Uploading image.png…]()
 
 ## Contributors
 
