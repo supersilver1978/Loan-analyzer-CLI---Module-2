@@ -50,7 +50,7 @@ To use the Loan Qualifier CLI simply clone the repository and run the **app_v2.p
 
 Upon launching the Loan Analyzier CLI the user will follow these prompts:
 
-![Loan Analyzer CLI][[![Uploading image.png…]()
+![Loan Analyzer CLI](![https://onedrive.live.com/?cid=14C4696BEBFF683D&id=14C4696BEBFF683D%21261207&parId=14C4696BEBFF683D%21252061&o=OneUp])
 
 ## Contributors
 
