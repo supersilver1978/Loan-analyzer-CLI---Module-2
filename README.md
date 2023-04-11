@@ -1,4 +1,4 @@
-![Screenshot1](screenshot.doc)
+![Screenshot1](screenshot.docx)
 
 
 # Loan Qualifier App CLI
