@@ -1,3 +1,6 @@
+![Screenshot1](screenshot.doc)
+
+
 # Loan Qualifier App CLI
 
 This is a command-line interface application for connecting banks with potential loan applicants.
